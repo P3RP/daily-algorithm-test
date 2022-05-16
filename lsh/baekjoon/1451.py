@@ -98,7 +98,7 @@ for i in range(1, N):
         if result > answer:
             answer = result
 
-# T로 자르기: Case 3 / T 90도 반시계방향
+# T로 자르기: Case 4 / T 90도 반시계방향
 for i in range(1, N):
     for j in range(1, M):
         num1 = 0
